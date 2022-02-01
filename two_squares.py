@@ -9,7 +9,7 @@ tt.pensize(3)
 
 for i in range(4):
         for j in range(8):
-                tt.circle(30)
+                tt.circle(50)
                 tt.penup()
                 tt.left(45)
                 # tt.goto(60,-60)
@@ -24,7 +24,7 @@ for i in range(4):
         #         tt.pendown()
         #         tt.circle(30)
         tt.penup()
-        tt.goto (60,-60)
+        tt.goto (100,-100)
         tt.pendown()
 
     # for i  in range(4):
